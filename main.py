@@ -1,4 +1,5 @@
-a = 100
-b = 200
-c = a + b 
-print(c)
+# div program 
+z = 100
+x = 10
+ans = z/x
+print(ans)
